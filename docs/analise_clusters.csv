@@ -1,0 +1,9 @@
+cluster,Preco_Medio,Frete_Medio,Media_Pagamentos,Score_Medio,Itens_Medio,Dif_Estimado_Entregue,Dif_Compra_Entregue,Pagamento_Predominante,Estado_Predominante,Regiao_Predominante
+0,149.1,21.35,1.89,4.07,1.34,13.99,13.71,cartao_credito,MG,Sudeste
+1,120.49,15.51,1.61,4.75,1.26,12.49,8.81,cartao_credito,SP,Sudeste
+2,145.39,21.94,1.7,3.97,1.32,15.11,14.9,cartao_credito,RJ,Sudeste
+3,344.3,29.5,8.3,3.94,1.65,14.86,14.81,cartao_credito,MG,Sudeste
+4,317.96,28.48,7.58,3.87,1.52,15.65,15.49,cartao_credito,RJ,Sudeste
+5,281.23,20.74,7.58,4.15,1.62,13.4,10.35,cartao_credito,SP,Sudeste
+6,161.45,25.62,2.2,3.92,1.27,14.4,18.4,cartao_credito,BA,Nordeste
+7,159.38,16.01,1.79,1.93,1.77,12.18,13.21,cartao_credito,SP,Sudeste
