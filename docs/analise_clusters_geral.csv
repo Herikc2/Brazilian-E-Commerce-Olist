@@ -1,0 +1,5 @@
+cluster,Preço,Frete,Parcelas,Score,Itens,RFM,Pagamento,Estado,Região
+0,165.98,23.13,2.4,3.96,1.33,2.95,Crédito,RJ,Sudeste
+1,130.2,15.62,1.77,4.16,1.37,3.05,Crédito,SP,Sudeste
+2,187.74,23.64,3.16,4.01,1.38,2.97,Crédito,MG,Sudeste
+3,320.17,23.27,8.41,3.98,1.67,3.03,Crédito,SP,Sudeste
